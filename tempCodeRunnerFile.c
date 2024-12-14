@@ -1,0 +1,2 @@
+
+        tatavg = tatavg + tat[i];
